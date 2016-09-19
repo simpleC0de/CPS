@@ -1,0 +1,7 @@
+main: Clicker.CPS
+name: Clicker
+version: 1.0
+commands:
+  cps:
+    usage: /<command>
+    description: CPS
